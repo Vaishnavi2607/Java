@@ -1,0 +1,6 @@
+garbage collection techniques:
+  -  Mark-and-Sweep
+  -  Generational GC
+  -  concurrent GC
+  -  Incremental GC
+
